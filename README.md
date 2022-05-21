@@ -1,4 +1,4 @@
-### <div align="center">I'm Akiko a full-time full-stack freelance developer and marketer 👨‍💻 working remotely since 2014. This is my public profile. I work in private. Available for enterprise or startup projects.  🚀</div>  
+### <div align="center">I'm Akiko a full-time full-stack freelance developer and marketer 👩🏽‍💻 working remotely since 2014. This is my public profile. I work in private. Available for enterprise or startup projects.  🚀</div>  
   
 
 - 🔭 I’m currently working on random stuff  
